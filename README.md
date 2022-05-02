@@ -3,7 +3,7 @@ Django project to manage a taxi service
 
 ## Check it out
 
-[Taxi Service project deployed to Heroku](LINK)
+[Taxi Service project deployed to Heroku](https://base-taxi.herokuapp.com/)
 
 ## Features
 
