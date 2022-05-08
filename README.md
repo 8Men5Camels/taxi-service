@@ -16,7 +16,7 @@ from website interface
 
 Python3 must be already installed
 
-* git clone https://github.com/denyslipin/Taxi-Service
+* git clone https://github.com/8Men5Camels/taxi-service.git
 * python -m venv venv
 * venv\Scripts\activate
 * pip install -r requirements.txt
