@@ -12,6 +12,24 @@ Django project to manage a taxi service
 from website interface
 * Powerful admin panel for advanced managing
 
+## Installation (for Windows)
+
+Python3 must be already installed
+
+* git clone https://github.com/denyslipin/Taxi-Service
+* python -m venv venv
+* source venv/bin/activate
+* pip install -r requirements.txt
+* python manage.py migrate
+* python manage.py runserver
+
+## Access
+
+Warning! Please, do not delete any user!
+
+* Username: test
+* Password: Test123456
+
 ## Demo
 
 ![Website Interface](demo.PNG)
